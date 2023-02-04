@@ -8,14 +8,14 @@ import { getStorage } from "firebase/storage";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCiozMUwiqQuheqncn2ws0V-C5etxyKLHk",
-    authDomain: "new-twitter-clone-a56d4.firebaseapp.com",
-    projectId: "new-twitter-clone-a56d4",
-    storageBucket: "new-twitter-clone-a56d4.appspot.com",
-    messagingSenderId: "969693980889",
-    appId: "1:969693980889:web:d8fa7be9f2dd3faeae76c8",
-    measurementId: "G-ZTR18FTHF8"
-  };
+  apiKey: "AIzaSyDRH8oz1d0fzJWQOQBU5gLIF6W7lJzeihw",
+  authDomain: "twitter221techlead.firebaseapp.com",
+  projectId: "twitter221techlead",
+  storageBucket: "twitter221techlead.appspot.com",
+  messagingSenderId: "655432848421",
+  appId: "1:655432848421:web:22210ba8e07fb368d01bcc",
+  measurementId: "G-8FJRZKPZGG"
+};
 
 
 // Initialize Firebase
